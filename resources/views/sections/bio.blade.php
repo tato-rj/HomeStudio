@@ -1,0 +1,5 @@
+@component('sections.layout', ['title' => 'Who am I', 'collapsible' => true])
+	<p>Pianist Arthur Villar holds a bachelors degree Piano Performance from the Hartt School, University of Hartford and a masters degree in Piano Performance from SUNY Purchase, NY. Besides working as a private piano teacher in Jersey City, he is also a piano faculty at The Hartt School Community Division (University of Hartford).<p>
+
+	<p>In 2007 he won the first prize in the Souza Lima National Piano Competition in SP, Brazil, and performed in 2009 Bach’s 24 preludes and fugues at the Forum Internacional del Piano de Barcelona. Arthur Villar has performed in Portugal, Spain, Brazil, Switzerland, and Czech Republic, and has studied with renowned pianists, such as Andrei Gavrilov (Russia), Paul Badura-Skoda (Austria), Julian Martin (US), Boris Berman (Russia), among others.</p>
+@endcomponent

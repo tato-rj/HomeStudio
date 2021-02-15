@@ -1,0 +1,5 @@
+@component('sections.layout', ['title' => 'Methodology', 'collapsible' => true])
+	<p>Learning music is like learning a language. And in order to fully understand that language, we must explore and dissect its structure. Foundational concepts such as rhythm, music theory, technique, and strong note reading skills are imperative to the framework of any good musician. I make sure that these essential elements become the foundation for every one of my piano students, whether they’ve been studying for just a few months or many years.<p>
+
+	<p>Nuance, articulation, and expression are all skills that pianists can refine in order to enhance the way they share their music with the world. Music tells a story, but what is a great story without the details? My teaching style reflects a strong attention to detail while also highlighting the skills needed to master these details. I love working with aspiring pianists to develop and refine these skills for themselves so that they can become the best musicians they can be.</p>
+@endcomponent
