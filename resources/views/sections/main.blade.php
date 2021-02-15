@@ -9,7 +9,7 @@
 <div class="mb-4">
 	<p class="">Schedule an appointment today!</p>
 	<div class="mb-2"><a href="mailto:arthurvillar@gmail.com">@fa(['icon' => 'envelope', 'color' => 'red'])arthurvillar@gmail.com</a></div>
-	<div><a href="tel:860-778-4035">@fa(['icon' => 'phone-alt', 'color' => 'red'])(860) 778-4035</a></div>
+	<div><a href="tel:1-860-778-4035">@fa(['icon' => 'phone-alt', 'color' => 'red'])(860)778-4035</a></div>
 </div>
 
 <div>
