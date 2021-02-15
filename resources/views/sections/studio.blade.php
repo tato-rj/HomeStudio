@@ -8,10 +8,10 @@
 			<img class="w-100 shadow rounded" src="{{asset('images/studio2.jpg')}}">
 		</div>
 		<div class="col-lg-3 col-md-6 col-6 p-2">
-			<img class="w-100 shadow rounded" src="{{asset('images/studio1.jpg')}}">
+			<img class="w-100 shadow rounded" src="{{asset('images/studio3.jpg')}}">
 		</div>
 		<div class="col-lg-3 col-md-6 col-6 p-2">
-			<img class="w-100 shadow rounded" src="{{asset('images/studio2.jpg')}}">
+			<img class="w-100 shadow rounded" src="{{asset('images/studio4.jpg')}}">
 		</div>
 	</div>
 @endcomponent
