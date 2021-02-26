@@ -7,13 +7,16 @@
 </div>
 
 <div class="mb-4">
-	<p class="">Schedule an appointment today!</p>
+	<p class=""><strong>Schedule an appointment today!</strong></p>
 	<div class="mb-2"><a href="mailto:arthurvillar@gmail.com">@fa(['icon' => 'envelope', 'color' => 'red'])arthurvillar@gmail.com</a></div>
-	<div><a href="tel:1-860-778-4035">@fa(['icon' => 'phone-alt', 'color' => 'red'])(860)778-4035</a></div>
+</div>
+
+<div class="mb-4">
+	<p class=""><strong>You'll also find me on</strong></p>
+	<div class="mb-2"><a href="https://www.youtube.com/pianolit" target="_blank">@fa(['fa_type' => 'b', 'icon' => 'youtube', 'color' => 'red'])Youtube</a></div>
+	<div><a href="https://www.facebook.com/arthur.villar.31" target="_blank">@fa(['fa_type' => 'b', 'icon' => 'facebook', 'color' => 'red'])Facebook</a></div>
 </div>
 
 <div>
-	<p class="">You'll also find me on</p>
-	<div class="mb-2"><a href="https://www.youtube.com/pianolit" target="_blank">@fa(['fa_type' => 'b', 'icon' => 'youtube', 'color' => 'red'])Youtube</a></div>
-	<div><a href="https://www.facebook.com/arthur.villar.31" target="_blank">@fa(['fa_type' => 'b', 'icon' => 'facebook', 'color' => 'red'])Facebook</a></div>
+	<iframe  class="w-100 shadow rounded" src="https://www.youtube.com/embed/PBn16K6e1rQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -24,5 +24,6 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         \Blade::include('components.fontawesome', 'fa');
+        \Blade::include('components.media');
     }
 }

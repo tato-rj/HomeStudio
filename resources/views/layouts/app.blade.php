@@ -5,6 +5,11 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:title" content="{{config('app.name')}}">
+        <meta property="og:description" content="Private piano lessons in Jersey City. Sign up for your trial lesson now!">
+        <meta property="og:url" content="{{config('app.url')}}">
+        <meta property="og:site_name" content="pianolessonsinjerseycity">
+        <meta property="og:type" content="website">
 
         <title>{{config('app.name')}}</title>
 

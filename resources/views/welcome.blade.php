@@ -7,7 +7,7 @@
 @section('content')
 <section class="container">
 	<div class="row">
-		<div class="col-lg-4 col-md-5 col-12 mb-5">
+		<div class="col-lg-4 col-md-5 col-12 mb-4">
 			@include('sections.main')
 		</div>
 		<div class="col-lg-8 col-md-7 col-12">
