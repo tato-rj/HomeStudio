@@ -12,7 +12,7 @@
 </div>
 
 <div class="mb-4">
-	<p class=""><strong>You'll also find me on</strong></p>
+	<p class=""><strong>You'll also find me at</strong></p>
 	<div class="mb-2"><a href="https://www.youtube.com/pianolit" target="_blank">@fa(['fa_type' => 'b', 'icon' => 'youtube', 'color' => 'red'])Youtube</a></div>
 	<div><a href="https://www.facebook.com/arthur.villar.31" target="_blank">@fa(['fa_type' => 'b', 'icon' => 'facebook', 'color' => 'red'])Facebook</a></div>
 </div>
