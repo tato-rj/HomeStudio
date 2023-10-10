@@ -5,5 +5,5 @@
 
 	<p>Arthur Villar participated in the following festivals and workshops: SIPO (Portugal), Forum Internacional del Piano in Barcelona (Spain), Performing Bach in Baroque Style in New York (US), Prague Music Performance Institute and Festival in Prague (Czech Republic) and Gijon International Piano Festival (Spain), and has studied with renowned pianists, such as Andrei Gavrilov (Russia), Paul Badura-Skoda (Austria), Julian Martin (US), Boris Berman (Russia), among others.</p>
 
-	<p>Arthur Villar is also a Certified Suzuki Teacher and a member of the following organizations: National Music Teachers Association (MTNA), Suzuki Association of the Americas (SAA), Hartford Music Teachers Alliance (HMTA), and Royal Concervatory of Music (RCM).</p>
+	<p>Arthur Villar is currently a member of the faculty at the <a href="https://bkcm.org/" target="_blank">Brooklyn Conservatory of Music</a>.</p>
 @endcomponent
